@@ -1,9 +1,9 @@
 {
-     "name": "hillzacky/php-route-minimal", 
-     "type": "project", 
-     "description": "Basic route to starting small project.", 
-     "keywords": ["framework", "smallest"], 
-     "license": "MIT", 
-     "minimum-stability": "dev", 
-     "prefer-stable": true 
+   "name": "Hillzacky/php-route-minimal",
+   "type": "project",
+   "description": "Basic route to starting small project.",
+   "keywords": ["framework", "smallest"],
+   "license": "MIT",
+   "minimum-stability": "dev",
+   "prefer-stable": true
 }
